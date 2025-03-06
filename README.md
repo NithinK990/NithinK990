@@ -2,7 +2,7 @@
 # 👋 Hi there! I'm Nithin | Senior Full Stack Developer 🚀
 
 ## About Me
-I am a <b>passionate full-stack developer</b> with over 10+ years of experience in building web applications. I specialize in JavaScript technologies and have a strong background in both front-end and back-end development.
+I am a <b>🌟passionate full-stack developer🌟</b> with over 10+ years of experience in building web applications. I specialize in JavaScript technologies and have a strong background in both front-end and back-end development.
 
 
 
