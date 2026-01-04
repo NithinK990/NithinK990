@@ -8,7 +8,7 @@ I am a <b>🌟passionate full-stack developer🌟</b> with over 10+ years of exp
 
 ## Skills
 - 💻 Frontend: React, Vue.js, Angular.js, Next.js, TypeScript, JavaScript
-- 🖥️ Backend: Python, Java, Node.js, Go
+- 🖥️ Backend: Python, PHP, Laravel, Java, Node.js, Go
 - 🛢️ Databases: PostgreSQL, MySQL, MongoDB
 - ☁️ Cloud & DevOps: AWS, Docker, CI/CD
 - 📈 Specialties: Clean Architecture, API Development, Performance Optimization
